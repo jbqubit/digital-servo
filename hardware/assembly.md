@@ -37,7 +37,6 @@ If practical duplicate the wire color choice as in
 [this](https://github.com/nist-ionstorage/digital-servo/blob/master/doc/Figs/DigitalServoInsideWithLabels.pdf) photo. 
 
 ## wire gauge
-Current for all power supplies is <= 5.0 A. Based on [this]
-(http://assets.bluesea.com/files/resources/newsletter/images/DC_wire_selection_chartlg.jpg)
-chart <= 16 AWG is sufficient. Use multi-strand wires throughout the
-design (no mono-filament).
+Current for all power supplies is <= 5.0 A. 
+- wire gauge: 16 AWG
+- wire core: multi-strand (no mono-filament)
